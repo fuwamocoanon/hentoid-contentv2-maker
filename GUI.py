@@ -136,7 +136,7 @@ def update_image_preview(window, image_folder):
 
 
 # GUI layout
-site_list = ["NEXUS", "ANCHIRA", "FAKKU", "HentaiNexus", "ExampleSite"]  # Replace this list with your site options
+site_list = ["NEXUS", "ANCHIRA", "FAKKU", "EXHENTAI", "ExampleSite"]  # Replace this list with your site options
 
 layout = [
     [sg.Text('Title'), sg.InputText(key='title')],
